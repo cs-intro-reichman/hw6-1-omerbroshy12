@@ -29,7 +29,7 @@ So you can visually test your outputs.
 
 ### Submission Deadline
 
-The submission deadline for this assignment is **December 22, 2024, 23:55**.
+The submission deadline for this assignment is **December 19, 2025, 23:59**.
 
 ### Checking Your Grade
 
